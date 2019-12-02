@@ -18,4 +18,7 @@
 	smtpencryption = tls
 	smtpserver = smtp.office365.com
 	smtpserverport = 587
-	smtpuser = firstname.lastname@epita.fr
+	smtpuser = valentin.thiron@epita.fr
+[user]
+	name = Valentin THIRON
+	email = valentin.thiron@epita.fr

@@ -1,1 +1,37 @@
 *utf8: always
+
+! clicable url
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: firefox
+URxvt.matcher.button: 1
+
+! desactive la scrollbar
+urxvt.scrollbar: false
+
+! font
+urxvt.font: xft:DejaVu Sans Mono:pixelsize=13:weight=bold
+
+! cursor
+urxvt.cursorBlink: true
+urxvt.cursorColor: #FF69B4
+urxvt.cursorUnderline: true
+
+! Dracula Xresources palette
+urxvt.foreground: #E6E6E6
+urxvt.background: #282A36
+urxvt.color0:     #000000
+urxvt.color8:     #4D4D4D
+urxvt.color1:     #FF5555
+urxvt.color9:     #FF6E67
+urxvt.color2:     #50FA7B
+urxvt.color10:    #5AF78E
+urxvt.color3:     #F1FA8C
+urxvt.color11:    #F4F99D
+urxvt.color4:     #BD93F9
+urxvt.color12:    #CAA9FA
+urxvt.color5:     #FF69B4
+urxvt.color13:    #FF92D0
+urxvt.color6:     #8BE9FD
+urxvt.color14:    #9AEDFE
+urxvt.color7:     #BFBFBF
+urxvt.color15:    #E6E6E6
